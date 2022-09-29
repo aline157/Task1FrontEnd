@@ -1,0 +1,36 @@
+
+.main-page  #sub_butt {
+    width: 15%;
+    background: #710193;
+    margin : 1.2rem;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+    align-self: center;
+  }
+  
+  .main-page  #sub_butt:hover {
+    -webkit-box-shadow: 4px 3px 9px -1px gray;
+            box-shadow: 4px 3px 9px -1px gray;
+    -webkit-transform: translateY(-5px);
+            transform: translateY(-5px);
+  }
+
+ 
+        
+.main-page   table {
+        border: 2px solid forestgreen;
+        width: 800px;
+        height: 200px;
+      }
+        
+ .main-page   th {
+        border-bottom: 1px solid black;
+      }
+        
+.main-page  td {
+        text-align: center;
+      }
